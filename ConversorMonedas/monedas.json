@@ -1,0 +1,17 @@
+[
+    {
+        "moneda": "dolar",
+        "valor": 1,
+        "monedas": "dolares"
+    },
+    {
+        "moneda": "peso mexicano",
+        "valor": 20.03,
+        "monedas": "pesos mexicanos"
+    },
+    {
+        "moneda": "euro",
+        "valor": 0.89,
+        "monedas": "euros"
+    }
+]
